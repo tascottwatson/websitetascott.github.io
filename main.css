@@ -11,3 +11,9 @@ body{
     bottom: 50%;
     transform: translate(-50%, -50%);
 }
+
+.sixers{
+    height: 100px; 
+    width: 120px;
+    position: relative;
+}

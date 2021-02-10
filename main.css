@@ -1,18 +1,28 @@
 body{
-    background: slategray;
+    background-image: url('../websitetascott.github.io/Images/background.png');
+    background-position-x: 150rem;
+    background-position-y: 90rem;
 }
 
-.title{
-    color:whitesmoke;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 50px;
-    position: absolute;
-    left: 50%;
-    bottom: 50%;
-    transform: translate(-50%, -50%);
-}
 
 .sixers{
-    width: 100px;
-    height: 100px;
+    position: relative;
+    right: 100px;
+    top: 100px;
+}
+
+.basket{
+    position: relative;
+    width: 300px;
+    height: 168px;
+    left: 600px;
+    top: 100px;
+}
+
+.coin{
+    position: relative;
+    width: 300px;
+    height: 168px;
+    left: 400px;
+    top: 100px;
 }

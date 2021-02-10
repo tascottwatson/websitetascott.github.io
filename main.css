@@ -26,3 +26,11 @@ body{
     left: 400px;
     top: 100px;
 }
+
+.history{
+    position: relative;
+    width: 300px;
+    height: 168px;
+    left: 500px;
+    top: 100px;
+}
